@@ -12,14 +12,16 @@ For general discussions on topics not included elsewhere, use the [discussions](
 
 ## Released packages
 
-### gcc - [xPack GNU Compiler Collection (GCC)](https://github.com/xpack-dev-tools/gcc-xpack/)
+The projects, in alphabetical order, are:
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fgcc%2F)](https://xpack.github.io/gcc/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/gcc/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
+### arm-none-eabi-gcc - [xPack Arm Embedded GCC](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Farm-none-eabi-gcc%2F)](https://xpack.github.io/arm-none-eabi-gcc/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/arm-none-eabi-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/arm-none-eabi-gcc/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/arm-none-eabi-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 ### clang - [xPack LLVM clang](https://github.com/xpack-dev-tools/clang-xpack/)
@@ -32,16 +34,6 @@ For general discussions on topics not included elsewhere, use the [discussions](
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/clang-xpack/total.svg)](https://github.com/xpack-dev-tools/clang-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### ninja-build - [xPack Ninja Build](https://github.com/xpack-dev-tools/ninja-build-xpack/)
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fninja-build%2F)](https://xpack.github.io/ninja-build/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/ninja-build.svg)](https://www.npmjs.com/package/@xpack-dev-tools/ninja-build/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/ninja-build-xpack/total.svg)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
-
 ### cmake - [xPack CMake](https://github.com/xpack-dev-tools/cmake-xpack/)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fcmake%2F)](https://xpack.github.io/cmake/)
@@ -50,6 +42,16 @@ For general discussions on topics not included elsewhere, use the [discussions](
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/cmake-xpack)](https://github.com/xpack-dev-tools/cmake-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/cmake-xpack)](https://github.com/xpack-dev-tools/cmake-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/cmake-xpack/total.svg)](https://github.com/xpack-dev-tools/cmake-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
+### gcc - [xPack GNU Compiler Collection (GCC)](https://github.com/xpack-dev-tools/gcc-xpack/)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fgcc%2F)](https://xpack.github.io/gcc/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/gcc/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 ### meson-build - [xPack Meson Build](https://github.com/xpack-dev-tools/meson-build-xpack/)
@@ -62,24 +64,14 @@ For general discussions on topics not included elsewhere, use the [discussions](
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/meson-build-xpack/total.svg)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### arm-none-eabi-gcc - [xPack Arm Embedded GCC](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/)
+### ninja-build - [xPack Ninja Build](https://github.com/xpack-dev-tools/ninja-build-xpack/)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Farm-none-eabi-gcc%2F)](https://xpack.github.io/arm-none-eabi-gcc/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/arm-none-eabi-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/arm-none-eabi-gcc/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/arm-none-eabi-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
-
-### riscv-none-embed-gcc - [xPack RISC-V Embedded GCC](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/)
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Friscv-none-embed-gcc%2F)](https://xpack.github.io/riscv-none-embed-gcc/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-embed-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-embed-gcc/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-embed-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fninja-build%2F)](https://xpack.github.io/ninja-build/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/ninja-build.svg)](https://www.npmjs.com/package/@xpack-dev-tools/ninja-build/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/ninja-build-xpack/total.svg)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 ### openocd - [xPack OpenOCD](https://github.com/xpack-dev-tools/openocd-xpack/)
@@ -100,6 +92,16 @@ For general discussions on topics not included elsewhere, use the [discussions](
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-arm-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
+### riscv-none-embed-gcc - [xPack RISC-V Embedded GCC](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Friscv-none-embed-gcc%2F)](https://xpack.github.io/riscv-none-embed-gcc/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-embed-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-embed-gcc/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-embed-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 ### windows-build-tools - [xPack Windows Build Tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/)
