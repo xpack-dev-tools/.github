@@ -1,6 +1,6 @@
 # Welcome to the xPack 3rd Party Development Tools!
 
-This GitHub organization groups several projects used to build cross-platform binary packages intended for reproducible builds, with an emphasis on C/C++ and embedded projects.
+This GitHub organization groups several projects used to build **cross-platform standalone binary packages** intended for reproducible builds, with an emphasis on C/C++ and embedded projects.
 
 
 ### Support
