@@ -14,7 +14,7 @@ For general discussions on topics not included elsewhere, use the [discussions](
 
 The projects, in alphabetical order, are:
 
-### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - xPack Arm Embedded GCC
+#### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - xPack Arm Embedded GCC
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Farm-none-eabi-gcc%2F)](https://xpack.github.io/arm-none-eabi-gcc/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/arm-none-eabi-gcc-xpack)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
@@ -24,7 +24,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/arm-none-eabi-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [clang](https://github.com/xpack-dev-tools/clang-xpack/) - xPack LLVM clang
+#### [clang](https://github.com/xpack-dev-tools/clang-xpack/) - xPack LLVM clang
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fclang%2F)](https://xpack.github.io/clang/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/clang-xpack)](https://github.com/xpack-dev-tools/clang-xpack/releases/)
@@ -34,7 +34,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/clang-xpack/total.svg)](https://github.com/xpack-dev-tools/clang-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - xPack CMake
+#### [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - xPack CMake
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fcmake%2F)](https://xpack.github.io/cmake/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/cmake-xpack)](https://github.com/xpack-dev-tools/cmake-xpack/releases/)
@@ -44,7 +44,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/cmake-xpack/total.svg)](https://github.com/xpack-dev-tools/cmake-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [gcc](https://github.com/xpack-dev-tools/gcc-xpack/) - xPack GNU Compiler Collection (GCC)
+#### [gcc](https://github.com/xpack-dev-tools/gcc-xpack/) - xPack GNU Compiler Collection (GCC)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fgcc%2F)](https://xpack.github.io/gcc/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
@@ -54,7 +54,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [meson-build](https://github.com/xpack-dev-tools/meson-build-xpack/) - xPack Meson Build
+#### [meson-build](https://github.com/xpack-dev-tools/meson-build-xpack/) - xPack Meson Build
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fmeson-build%2F)](https://xpack.github.io/meson-build/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/meson-build-xpack)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
@@ -64,7 +64,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/meson-build-xpack/total.svg)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [ninja-build](https://github.com/xpack-dev-tools/ninja-build-xpack/) - xPack Ninja Build
+#### [ninja-build](https://github.com/xpack-dev-tools/ninja-build-xpack/) - xPack Ninja Build
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fninja-build%2F)](https://xpack.github.io/ninja-build/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/ninja-build-xpack)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
@@ -74,7 +74,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/ninja-build-xpack/total.svg)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [openocd](https://github.com/xpack-dev-tools/openocd-xpack/) - xPack OpenOCD
+#### [openocd](https://github.com/xpack-dev-tools/openocd-xpack/) - xPack OpenOCD
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fopenocd%2F)](https://xpack.github.io/openocd/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/openocd-xpack)](https://github.com/xpack-dev-tools/openocd-xpack/releases/)
@@ -84,7 +84,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/openocd-xpack/total.svg)](https://github.com/xpack-dev-tools/openocd-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - xPack QEMU Arm Cortex-M
+#### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - xPack QEMU Arm Cortex-M
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fqemu-arm%2F)](https://xpack.github.io/qemu-arm/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
@@ -94,7 +94,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-arm-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [riscv-none-embed-gcc](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/) - xPack RISC-V Embedded GCC
+#### [riscv-none-embed-gcc](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/) - xPack RISC-V Embedded GCC
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Friscv-none-embed-gcc%2F)](https://xpack.github.io/riscv-none-embed-gcc/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
@@ -104,7 +104,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-embed-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools
+#### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwindows-build-tools%2F)](https://xpack.github.io/windows-build-tools/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/windows-build-tools-xpack)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/releases/)
