@@ -7,8 +7,8 @@ This GitHub organization groups several projects used to build cross-platform bi
 
 For support, use the **discussions** pages associated with each project.
 
-For general discussions on topics not included elsewhere, use the [discussions](https://github.com/xpack-dev-tools/content/discussions/) pages of the `content` project.
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/content)](https://github.com/xpack-dev-tools/content/discussions/)
+For general discussions on topics not included elsewhere, use the [discussions](https://github.com/xpack-dev-tools/.github/discussions/) pages of the `.github` project.
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/.github)](https://github.com/xpack-dev-tools/.github/discussions/)
 
 ## Released packages
 
