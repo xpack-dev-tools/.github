@@ -84,7 +84,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/openocd-xpack/total.svg)](https://github.com/xpack-dev-tools/openocd-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-#### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - xPack QEMU Arm Cortex-M
+#### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - xPack QEMU Arm
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fqemu-arm%2F)](https://xpack.github.io/qemu-arm/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
@@ -92,6 +92,16 @@ The projects, in alphabetical order, are:
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/qemu-arm-xpack)](https://github.com/xpack-dev-tools/qemu-arm-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-arm-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
+#### [qemu-riscv](https://github.com/xpack-dev-tools/qemu-riscv-xpack/) - xPack QEMU RISC-V
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fqemu-riscv%2F)](https://xpack.github.io/qemu-riscv/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/qemu-riscv-xpack)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/qemu-riscv.svg)](https://www.npmjs.com/package/@xpack-dev-tools/qemu-riscv/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/qemu-riscv-xpack)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/qemu-riscv-xpack)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-riscv-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 #### [riscv-none-embed-gcc](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/) - xPack RISC-V Embedded GCC
