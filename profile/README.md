@@ -14,6 +14,16 @@ For general discussions on topics not included elsewhere, use the [discussions](
 
 The projects, in alphabetical order, are:
 
+#### [aarch64-none-elf-gcc](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/) - xPack AArch64 Embedded GCC
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Faarch64-none-elf-gcc%2F)](https://xpack.github.io/aarch64-none-elf-gcc/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/aarch64-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/aarch64-none-elf-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/aarch64-none-elf-gcc/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/aarch64-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/aarch64-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/aarch64-none-elf-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
 #### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - xPack Arm Embedded GCC
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Farm-none-eabi-gcc%2F)](https://xpack.github.io/arm-none-eabi-gcc/)
@@ -104,14 +114,14 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-riscv-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-#### [riscv-none-embed-gcc](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/) - xPack RISC-V Embedded GCC
+#### [riscv-none-elf-gcc](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/) - xPack RISC-V Embedded GCC
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Friscv-none-embed-gcc%2F)](https://xpack.github.io/riscv-none-embed-gcc/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-embed-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-embed-gcc/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/riscv-none-embed-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-embed-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Friscv-none-elf-gcc%2F)](https://xpack.github.io/riscv-none-elf-gcc/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-elf-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-elf-gcc/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/riscv-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/riscv-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-elf-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 #### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools
