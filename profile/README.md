@@ -144,6 +144,30 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/windows-build-tools-xpack/total.svg)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20-blue)
 
+## Other packages
+
+Other projects used internally during development, in alphabetical order, are:
+
+#### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack wine
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwine%2F)](https://xpack.github.io/dev-tools/wine/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/wine?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/wine/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/wine-xpack/total.svg)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Linux%20x64%20-blue)
+
+#### [xbb-bootstrap](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/) - xPack xbb-bootstrap
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fxbb-bootstrap%2F)](https://xpack.github.io/dev-tools/xbb-bootstrap/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-bootstrap?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-bootstrap/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/xbb-bootstrap-xpack/total.svg)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
+
 ## Misc
 
 ### Pre-releases
