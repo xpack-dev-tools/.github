@@ -148,7 +148,7 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
-#### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack wine
+#### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack WineHQ
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwine%2F)](https://xpack.github.io/dev-tools/wine/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
@@ -158,7 +158,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/wine-xpack/total.svg)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Linux%20x64%20-blue)
 
-#### [xbb-bootstrap](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/) - xPack xbb-bootstrap
+#### [xbb-bootstrap](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/) - xPack XBB Bootstrap
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fxbb-bootstrap%2F)](https://xpack.github.io/dev-tools/xbb-bootstrap/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
