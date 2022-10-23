@@ -148,6 +148,16 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
+#### [realpath](https://github.com/xpack-dev-tools/realpath-xpack/) - xPack realpathHQ
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Frealpath%2F)](https://xpack.github.io/dev-tools/realpath/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/realpath-xpack)](https://github.com/xpack-dev-tools/realpath-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/realpath?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/realpath/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/realpath-xpack)](https://github.com/xpack-dev-tools/realpath-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/realpath-xpack)](https://github.com/xpack-dev-tools/realpath-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/realpath-xpack/total.svg)](https://github.com/xpack-dev-tools/realpath-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Linux%20x64%20-blue)
+
 #### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack WineHQ
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwine%2F)](https://xpack.github.io/dev-tools/wine/)
