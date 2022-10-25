@@ -148,7 +148,7 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
-#### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack patchelfHQ
+#### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpatchelf%2F)](https://xpack.github.io/dev-tools/patchelf/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/releases/)
@@ -158,7 +158,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/patchelf-xpack/total.svg)](https://github.com/xpack-dev-tools/patchelf-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
-#### [pkg-config](https://github.com/xpack-dev-tools/pkg-config-xpack/) - xPack pkg-configHQ
+#### [pkg-config](https://github.com/xpack-dev-tools/pkg-config-xpack/) - xPack pkg-config
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpkg-config%2F)](https://xpack.github.io/dev-tools/pkg-config/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/pkg-config-xpack)](https://github.com/xpack-dev-tools/pkg-config-xpack/releases/)
@@ -168,7 +168,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/pkg-config-xpack/total.svg)](https://github.com/xpack-dev-tools/pkg-config-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
-#### [realpath](https://github.com/xpack-dev-tools/realpath-xpack/) - xPack realpathHQ
+#### [realpath](https://github.com/xpack-dev-tools/realpath-xpack/) - xPack GNU realpath
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Frealpath%2F)](https://xpack.github.io/dev-tools/realpath/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/realpath-xpack)](https://github.com/xpack-dev-tools/realpath-xpack/releases/)
