@@ -148,6 +148,16 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
+#### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4 Build
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/m4/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/m4.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/m4/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/m4-xpack/total.svg)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
 #### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpatchelf%2F)](https://xpack.github.io/dev-tools/patchelf/)
