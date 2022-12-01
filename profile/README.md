@@ -211,7 +211,7 @@ Other projects used internally during development, in alphabetical order, are:
 ## Build helper
 
 - [xbb-helper-xpack](https://github.com/xpack-dev-tools/xbb-helper-xpack)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)xpack-dev-tools/xbb-helper-xpack)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-helper-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-helper.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-helper/)
 
