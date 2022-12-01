@@ -208,6 +208,13 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/xbb-bootstrap-xpack/total.svg)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
+## Build helper
+
+- [xbb-helper-xpack](https://github.com/xpack-dev-tools/xbb-helper-xpack)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@micro-os-plus/build-helper.svg?color=blue)](https://www.npmjs.com/package/@micro-os-plus/build-helper/)
+
 ## Misc
 
 ### Pre-releases
