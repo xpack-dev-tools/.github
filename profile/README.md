@@ -156,7 +156,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/m4-xpack/total.svg)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
 #### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
@@ -196,7 +196,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/sed-xpack/total.svg)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
 #### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack WineHQ
 
