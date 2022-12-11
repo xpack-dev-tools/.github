@@ -188,6 +188,16 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/realpath-xpack/total.svg)](https://github.com/xpack-dev-tools/realpath-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
+#### [sed](https://github.com/xpack-dev-tools/sed-xpack/) - xPack GNU sed Build
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fsed%2F)](https://xpack.github.io/sed/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/sed.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/sed/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/sed-xpack/total.svg)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
+
 #### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack WineHQ
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwine%2F)](https://xpack.github.io/dev-tools/wine/)
