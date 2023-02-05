@@ -208,16 +208,6 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/wine-xpack/total.svg)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Linux%20x64%20-blue)
 
-#### [xbb-bootstrap](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/) - xPack XBB Bootstrap (deprecated)
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fxbb-bootstrap%2F)](https://xpack.github.io/dev-tools/xbb-bootstrap/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-bootstrap?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-bootstrap/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/xbb-bootstrap-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/xbb-bootstrap-xpack/total.svg)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
-
 ## Build helper
 
 - [xbb-helper-xpack](https://github.com/xpack-dev-tools/xbb-helper-xpack)
