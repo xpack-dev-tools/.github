@@ -150,7 +150,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4 Build
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/m4/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/dev-tools/m4/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/m4.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/m4/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/discussions/)
@@ -160,7 +160,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpatchelf%2F)](https://xpack.github.io/dev-tools/patchelf/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpatchelf%2F)](https://xpack.github.io/dev-tools/dev-tools/patchelf/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/patchelf?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/patchelf/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/discussions/)
@@ -190,7 +190,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [sed](https://github.com/xpack-dev-tools/sed-xpack/) - xPack GNU sed Build
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fsed%2F)](https://xpack.github.io/sed/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fsed%2F)](https://xpack.github.io/dev-tools/sed/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/sed.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/sed/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/discussions/)
