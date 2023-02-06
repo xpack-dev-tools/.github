@@ -188,7 +188,7 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/realpath-xpack/total.svg)](https://github.com/xpack-dev-tools/realpath-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
-#### [sed](https://github.com/xpack-dev-tools/sed-xpack/) - xPack GNU sed Build
+#### [sed](https://github.com/xpack-dev-tools/sed-xpack/) - xPack GNU sed
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fsed%2F)](https://xpack.github.io/dev-tools/sed/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
