@@ -148,7 +148,7 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
-#### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4 Build
+#### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/dev-tools/m4/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
