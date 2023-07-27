@@ -74,7 +74,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/meson-build-xpack/total.svg)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-#### [mingw-w64-gcc](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/) - xPack AArch64 Embedded GCC
+#### [mingw-w64-gcc](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/) - xPack MinGW-w64 GCC
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fmingw-w64-gcc%2F)](https://xpack.github.io/mingw-w64-gcc/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/mingw-w64-gcc-xpack)](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/releases/)
