@@ -148,6 +148,26 @@ The projects, in alphabetical order, are:
 
 Other projects used internally during development, in alphabetical order, are:
 
+#### [bison](https://github.com/xpack-dev-tools/bison-xpack/) - xPack GNU bison
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fbison%2F)](https://xpack.github.io/dev-tools/bison/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/bison-xpack)](https://github.com/xpack-dev-tools/bison-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/bison.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/bison/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/bison-xpack)](https://github.com/xpack-dev-tools/bison-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/bison-xpack)](https://github.com/xpack-dev-tools/bison-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/bison-xpack/total.svg)](https://github.com/xpack-dev-tools/bison-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
+
+#### [flex](https://github.com/xpack-dev-tools/flex-xpack/) - xPack GNU flex
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fflex%2F)](https://xpack.github.io/dev-tools/flex/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/flex.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/flex/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/flex-xpack/total.svg)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
+
 #### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/dev-tools/m4/)
