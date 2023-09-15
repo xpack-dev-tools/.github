@@ -10,6 +10,8 @@ For support, use the **discussions** pages associated with each project.
 For general discussions on topics not included elsewhere, use the [discussions](https://github.com/xpack-dev-tools/.github/discussions/) pages of the `.github` project.
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/.github)](https://github.com/xpack-dev-tools/.github/discussions/)
 
+The release schedule is documented in the separate [RELEASE-SCHEDULE](https://github.com/xpack-dev-tools/.github/blob/master/REALEASE-SCHEDULE.md) page.
+
 ## Released packages
 
 The projects, in alphabetical order, are:
