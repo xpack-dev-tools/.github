@@ -42,7 +42,7 @@ The rule is to wait for the new upstream release (like X.0.0), and
 release the previous one (X-1.0.[567]).
 
 For Windows builds, wait for
-[llvm-mingw releases](https://github.com/mstorsjo/llvm-mingw/releases).
+[llvm-mingw](https://github.com/mstorsjo/llvm-mingw/releases) releases.
 
 For macOS builds, wait for 
 [HomeBrew](https://github.com/Homebrew/homebrew-core/blob/master/Formula/l/llvm.rb).
