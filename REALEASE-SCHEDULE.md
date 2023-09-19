@@ -27,22 +27,28 @@ At the same time updates for the previous 3 major versions (like
 
 The Apple Silicon macOS binaries require a patch, usualy copied from the
 HomeBrew [gcc](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc.rb)
-package.
-using the Iain Sandoe's [forks](https://github.com/iains?tab=repositories)
+package using the Iain Sandoe's [forks](https://github.com/iains?tab=repositories).
 
 ## clang 
 
 LLVM is released on a time based schedule, with major releases roughly every 6 months. 
-In between major releases there may be dot releases. 
+In between major releases there may be dot releases
+[Annual Release Schedule](https://llvm.org/docs/HowToReleaseLLVM.html).
 
 The **xPack clang** project follows the official
 [LLVM clang](https://github.com/llvm/llvm-project/releases/) releases,
 but only the final patch of each version is released (like 16.0.6).
 The rule is to wait for the new upstream release (like X.0.0), and
-release the previous one (X-1.0.[567])
+release the previous one (X-1.0.[567]).
 
-In order to spot possible issues, test builds will be performed
-as soon as new versions become available (like X.0.1),
+For Windows builds, wait for
+[llvm-mingw releases](https://github.com/mstorsjo/llvm-mingw/releases).
+
+For macOS builds, wait for 
+[HomeBrew](https://github.com/Homebrew/homebrew-core/blob/master/Formula/l/llvm.rb).
+
+In order to spot possible issues, test builds should be performed
+as soon as a new dot version become available (like X.0.1),
 without making releases.
 
 ## cmake
@@ -97,7 +103,7 @@ stable release (like X.0.2).
 ## patchelf
 
 The NixOS PatchELF has occasional
-[releases](https://github.com/NixOS/patchelf/releases/)
+[releases](https://github.com/NixOS/patchelf/releases/).
 
 The **xPack NixOS PatchELF** project generally follows the upstream
 releases, but with a
