@@ -237,6 +237,35 @@ Other projects used internally during development, in alphabetical order, are:
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-helper-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-helper.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-helper/)
 
+## Release schedule
+
+Unscheduled
+
+- cmake: [upstream](https://github.com/Kitware/CMake/tags/) (3.X.3 -> 3.(X-1).Y)
+- meson: [upstream](https://github.com/mesonbuild/meson/tags/) (1.X.0 -> 1.(X-1).Y)
+- ninja: [upstream](https://github.com/ninja-build/ninja/tags/)
+- arm-none-eabi-gcc, aarch64-none-elf-gcc [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/)
+- clang [upstream](https://github.com/llvm/llvm-project/tags/) (X.0.0 -> (X-1.[01].[567])
+- windows-build-tools: [make upstream](https://ftp.gnu.org/gnu/make/)
+
+March-April
+
+- openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
+- qemu [upstream](https://github.com/qemu/qemu/tags/) (X.0.0 -> (X-1).Y.Z)
+
+- bison [upstream](https://ftp.gnu.org/gnu/bison/)
+- flex [upstream](https://github.com/westes/flex/tags/)
+- m4 [upstream](https://ftp.gnu.org/gnu/m4/)
+- patchelf [upstream](https://github.com/NixOS/patchelf/tags/)
+- pkg-config [upstream](https://pkgconfig.freedesktop.org/releases/)
+- realpath [upstream](https://ftp.gnu.org/gnu/coreutils/)
+- sed [upstream](https://ftp.gnu.org/gnu/sed/)
+
+August-September
+
+- gcc, mingw-w64-gcc, riscv-none-elf-gcc [upstream](https://gcc.gnu.org/releases.html)
+- wine [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
+  
 ## Misc
 
 ### Pre-releases
