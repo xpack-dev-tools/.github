@@ -253,6 +253,8 @@ March-April
 - openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
 - qemu [upstream](https://github.com/qemu/qemu/tags/) (X.0.0 -> (X-1).Y.Z)
 
+Seldom
+
 - bison [upstream](https://ftp.gnu.org/gnu/bison/)
 - flex [upstream](https://github.com/westes/flex/tags/)
 - m4 [upstream](https://ftp.gnu.org/gnu/m4/)
