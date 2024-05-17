@@ -251,6 +251,20 @@ March-April
 - openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
 - qemu [upstream](https://github.com/qemu/qemu/tags/) (X.0.0 -> (X-1).Y.Z)
 
+April
+
+- gcc: test X.0.0 pre-release using Iain's macOS branch
+
+May - July
+
+- gcc, mingw-w64-gcc, riscv-none-elf-gcc: X.1.0 prepared, not released
+- gcc, mingw-w64-gcc, riscv-none-elf-gcc: (X-1).3, (X-2).4, (X-3).5
+
+August-September
+
+- gcc, mingw-w64-gcc, riscv-none-elf-gcc X.2.0 [upstream](https://gcc.gnu.org/releases.html)
+- wine [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
+
 Seldom
 
 - bison [upstream](https://ftp.gnu.org/gnu/bison/)
@@ -261,10 +275,6 @@ Seldom
 - realpath [upstream](https://ftp.gnu.org/gnu/coreutils/)
 - sed [upstream](https://ftp.gnu.org/gnu/sed/)
 
-August-September
-
-- gcc, mingw-w64-gcc, riscv-none-elf-gcc [upstream](https://gcc.gnu.org/releases.html)
-- wine [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
 
 More details in the separate [RELEASE-SCHEDULE](https://github.com/xpack-dev-tools/.github/blob/master/REALEASE-SCHEDULE.md) page.
 
