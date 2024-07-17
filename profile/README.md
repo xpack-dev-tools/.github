@@ -96,7 +96,7 @@ The projects, in alphabetical order, are:
 
 #### [openocd](https://github.com/xpack-dev-tools/openocd-xpack/) - xPack OpenOCD
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fopenocd%2F)](https://xpack.github.io/openocd/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fopenocd-xpack%2F)](https://xpack-dev-tools.github.io/openocd-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/openocd-xpack)](https://github.com/xpack-dev-tools/openocd-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/openocd?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/openocd/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/openocd-xpack)](https://github.com/xpack-dev-tools/openocd-xpack/discussions/)
