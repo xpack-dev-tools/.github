@@ -126,8 +126,7 @@ The projects, in alphabetical order, are:
 
 #### [riscv-none-elf-gcc](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/) - xPack RISC-V Embedded GCC
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Friscv-none-elf-gcc-xpack%2F)
-](https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Friscv-none-elf-gcc-xpack%2F)](https://xpack-dev-tools.github.io/riscv-none-elf-gcc-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/riscv-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/riscv-none-elf-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/riscv-none-elf-gcc/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/riscv-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/discussions/)
