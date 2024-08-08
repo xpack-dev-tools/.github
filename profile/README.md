@@ -56,7 +56,7 @@ The projects, in alphabetical order, are:
 
 #### [gcc](https://github.com/xpack-dev-tools/gcc-xpack/) - xPack GNU Compiler Collection (GCC)
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fgcc%2F)](https://xpack.github.io/gcc/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fgcc-xpack%2F)](https://xpack-dev-tools.github.io/gcc-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/gcc/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/gcc-xpack)](https://github.com/xpack-dev-tools/gcc-xpack/discussions/)
