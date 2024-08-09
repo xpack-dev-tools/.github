@@ -18,8 +18,8 @@ The projects, in alphabetical order, are:
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Faarch64-none-elf-gcc%2F)](https://xpack.github.io/aarch64-none-elf-gcc/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/aarch64-none-elf-gcc-xpack)
-![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/aarch64-none-elf-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/aarch64-none-elf-gcc-xpack)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/aarch64-none-elf-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/aarch64-none-elf-gcc/)
