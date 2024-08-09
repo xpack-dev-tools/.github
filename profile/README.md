@@ -76,7 +76,7 @@ The projects, in alphabetical order, are:
 
 #### [mingw-w64-gcc](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/) - xPack MinGW-w64 GCC
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fmingw-w64-gcc%2F)](https://xpack.github.io/mingw-w64-gcc/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fmingw-w64-gcc-xpack%2F)](https://xpack-dev-tools.github.io/mingw-w64-gcc-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/mingw-w64-gcc-xpack)](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/mingw-w64-gcc.svg)](https://www.npmjs.com/package/@xpack-dev-tools/mingw-w64-gcc/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/mingw-w64-gcc-xpack)](https://github.com/xpack-dev-tools/mingw-w64-gcc-xpack/discussions/)
