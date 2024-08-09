@@ -134,7 +134,7 @@ The projects, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/riscv-none-elf-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
 
-#### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools//windows-build-tools-xpack)
+#### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/windows-build-tools-xpack)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwindows-build-tools%2F)](https://xpack.github.io/windows-build-tools/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/windows-build-tools-xpack)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/releases/)
