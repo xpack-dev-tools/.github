@@ -16,7 +16,7 @@ The projects, in alphabetical order, are:
 
 #### [aarch64-none-elf-gcc](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/) - xPack AArch64 Embedded GCC 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Faarch64-none-elf-gcc%2F)](https://xpack.github.io/aarch64-none-elf-gcc/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Faarch64-none-elf-gcc-xpack%2F)](https://xpack-dev-tools.github.io/aarch64-none-elf-gcc-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/aarch64-none-elf-gcc-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/aarch64-none-elf-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/aarch64-none-elf-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -29,7 +29,7 @@ The projects, in alphabetical order, are:
 
 #### [arm-none-eabi-gcc](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/) - xPack Arm Embedded GCC 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Farm-none-eabi-gcc%2F)](https://xpack.github.io/arm-none-eabi-gcc/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Farm-none-eabi-gcc-xpack%2F)](https://xpack-dev-tools.github.io/arm-none-eabi-gcc-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/arm-none-eabi-gcc-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/arm-none-eabi-gcc-xpack/total.svg)](https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
