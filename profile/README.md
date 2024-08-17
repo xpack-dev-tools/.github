@@ -44,7 +44,7 @@ The projects, in alphabetical order, are:
 
 #### [clang](https://github.com/xpack-dev-tools/clang-xpack/) - xPack LLVM clang 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fclang%2F)](https://xpack-dev-tools.github.io/clang-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fclang-xpack%2F)](https://xpack-dev-tools.github.io/clang-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/clang-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/clang-xpack/total.svg)](https://github.com/xpack-dev-tools/clang-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
