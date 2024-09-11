@@ -293,11 +293,6 @@ Unscheduled
 - clang [upstream](https://github.com/llvm/llvm-project/tags/) (X.0.0 -> (X-1.[01].[567])
 - windows-build-tools: [make upstream](https://ftp.gnu.org/gnu/make/)
 
-March-April
-
-- openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
-- qemu [upstream](https://github.com/qemu/qemu/tags/) (X.0.0 -> (X-1).Y.Z)
-
 April
 
 - gcc: test X.0.0 pre-release using Iain's macOS branch
@@ -310,6 +305,8 @@ May - July
 August-September
 
 - gcc, mingw-w64-gcc, riscv-none-elf-gcc X.2.0 [upstream](https://gcc.gnu.org/releases.html)
+- openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
+- qemu [upstream](https://github.com/qemu/qemu/tags/) (X.1.0 -> (X-1).2.Z)
 - wine [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
 
 Seldom
