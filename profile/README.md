@@ -85,7 +85,7 @@ The projects, in alphabetical order, are:
 
 #### [meson-build](https://github.com/xpack-dev-tools/meson-build-xpack/) - xPack Meson Build 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tool.github.io%2Fmeson-build-xpack%2F)](https://xpack-dev-tools.github.io/meson-build-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fmeson-build-xpack%2F)](https://xpack-dev-tools.github.io/meson-build-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/meson-build-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/meson-build-xpack/total.svg)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -113,7 +113,7 @@ The projects, in alphabetical order, are:
 
 #### [ninja-build](https://github.com/xpack-dev-tools/ninja-build-xpack/) - xPack Ninja Build 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tool.github.io%2Fninja-build-xpack%2F)](https://xpack-dev-tools.github.io/ninja-build-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fninja-build-xpack%2F)](https://xpack-dev-tools.github.io/ninja-build-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/ninja-build-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/ninja-build-xpack/total.svg)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
