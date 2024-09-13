@@ -286,7 +286,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 Unscheduled
 
-- cmake: [upstream](https://github.com/Kitware/CMake/tags/) (3.X.3 -> 3.(X-1).Y)
+- cmake: [upstream](https://github.com/Kitware/CMake/tags/) (3.X.4 -> 3.(X-1).Y)
 - meson: [upstream](https://github.com/mesonbuild/meson/tags/) (1.X.0 -> 1.(X-1).Y)
 - ninja: [upstream](https://github.com/ninja-build/ninja/tags/)
 - arm-none-eabi-gcc, aarch64-none-elf-gcc [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/)
