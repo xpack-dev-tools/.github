@@ -57,7 +57,7 @@ The projects, in alphabetical order, are:
 
 #### [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - xPack CMake 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fcmake%2F)](https://xpack.github.io/cmake/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fcmake-xpack%2F)](https://xpack-dev-tool.github.io/cmake-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/cmake-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/cmake-xpack/total.svg)](https://github.com/xpack-dev-tools/cmake-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -85,7 +85,7 @@ The projects, in alphabetical order, are:
 
 #### [meson-build](https://github.com/xpack-dev-tools/meson-build-xpack/) - xPack Meson Build 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fmeson-build%2F)](https://xpack.github.io/meson-build/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tool.github.io%2Fmeson-build-xpack%2F)](https://xpack-dev-tools.github.io/meson-build-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/meson-build-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/meson-build-xpack/total.svg)](https://github.com/xpack-dev-tools/meson-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -113,7 +113,7 @@ The projects, in alphabetical order, are:
 
 #### [ninja-build](https://github.com/xpack-dev-tools/ninja-build-xpack/) - xPack Ninja Build 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fninja-build%2F)](https://xpack.github.io/ninja-build/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tool.github.io%2Fninja-build-xpack%2F)](https://xpack-dev-tools.github.io/ninja-build-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/ninja-build-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/ninja-build-xpack/total.svg)](https://github.com/xpack-dev-tools/ninja-build-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -139,7 +139,7 @@ The projects, in alphabetical order, are:
 
 #### [qemu-arm](https://github.com/xpack-dev-tools/qemu-arm-xpack/) - xPack QEMU Arm 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fqemu-arm%2F)](https://xpack.github.io/qemu-arm/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fqemu-arm-xpack%2F)](https://xpack-dev-tools.github.io/qemu-arm-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/qemu-arm-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-arm-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-arm-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -153,7 +153,7 @@ The projects, in alphabetical order, are:
 
 #### [qemu-riscv](https://github.com/xpack-dev-tools/qemu-riscv-xpack/) - xPack QEMU RISC-V 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fqemu-riscv%2F)](https://xpack.github.io/qemu-riscv/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fqemu-riscv-xpack%2F)](https://xpack-dev-tools.github.io/qemu-riscv-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/qemu-riscv-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/qemu-riscv-xpack/total.svg)](https://github.com/xpack-dev-tools/qemu-riscv-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
@@ -180,7 +180,7 @@ The projects, in alphabetical order, are:
 
 #### [windows-build-tools](https://github.com/xpack-dev-tools/windows-build-tools-xpack/) - xPack Windows Build Tools 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwindows-build-tools%2F)](https://xpack.github.io/windows-build-tools/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fwindows-build-tools-xpack%2F)](https://xpack-dev-tools.github.io/windows-build-tools-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/windows-build-tools-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/windows-build-tools-xpack/total.svg)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20-blue)
@@ -267,7 +267,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [wine](https://github.com/xpack-dev-tools/wine-xpack/) - xPack WineHQ
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fwine%2F)](https://xpack.github.io/dev-tools/wine/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fwine-xpack%2F)](https://xpack-dev-tools.github.io/dev-tools/wine-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/wine?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/wine/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/wine-xpack)](https://github.com/xpack-dev-tools/wine-xpack/discussions/)
