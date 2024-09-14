@@ -289,8 +289,8 @@ Unscheduled
 - cmake: [upstream](https://github.com/Kitware/CMake/tags/) (3.X.4 -> 3.(X-1).Y)
 - meson: [upstream](https://github.com/mesonbuild/meson/tags/) (1.X.0 -> 1.(X-1).Y)
 - ninja: [upstream](https://github.com/ninja-build/ninja/tags/)
-- arm-none-eabi-gcc, aarch64-none-elf-gcc [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/)
-- clang [upstream](https://github.com/llvm/llvm-project/tags/) (X.0.0 -> (X-1.[01].[567])
+- arm-none-eabi-gcc, aarch64-none-elf-gcc: [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/)
+- clang: [upstream](https://github.com/llvm/llvm-project/tags/) (X.0.0 -> (X-1.[01].[567])
 - windows-build-tools: [make upstream](https://ftp.gnu.org/gnu/make/)
 
 April
@@ -304,20 +304,20 @@ May - July
 
 August-September
 
-- gcc, mingw-w64-gcc, riscv-none-elf-gcc X.2.0 [upstream](https://gcc.gnu.org/releases.html)
-- openocd [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
-- qemu [upstream](https://github.com/qemu/qemu/tags/) (X.1.0 -> (X-1).2.Z)
-- wine [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
+- gcc, mingw-w64-gcc, riscv-none-elf-gcc: X.2.0 [upstream](https://gcc.gnu.org/releases.html)
+- openocd: [upstream](https://github.com/openocd-org/openocd/tags/) (use current git)
+- qemu: [upstream](https://github.com/qemu/qemu/tags/) (X.1.0 -> (X-1).2.Z)
+- wine: [upstream](https://dl.winehq.org/wine/source/) (X.0.2)
 
 Seldom
 
-- bison [upstream](https://ftp.gnu.org/gnu/bison/)
-- flex [upstream](https://github.com/westes/flex/tags/)
-- m4 [upstream](https://ftp.gnu.org/gnu/m4/)
-- patchelf [upstream](https://github.com/NixOS/patchelf/tags/)
-- pkg-config [upstream](https://pkgconfig.freedesktop.org/releases/)
-- realpath [upstream](https://ftp.gnu.org/gnu/coreutils/)
-- sed [upstream](https://ftp.gnu.org/gnu/sed/)
+- bison: [upstream](https://ftp.gnu.org/gnu/bison/)
+- flex: [upstream](https://github.com/westes/flex/tags/)
+- m4: [upstream](https://ftp.gnu.org/gnu/m4/)
+- patchelf: [upstream](https://github.com/NixOS/patchelf/tags/)
+- pkg-config: [upstream](https://pkgconfig.freedesktop.org/releases/)
+- realpath: [upstream](https://ftp.gnu.org/gnu/coreutils/)
+- sed: [upstream](https://ftp.gnu.org/gnu/sed/)
 
 
 More details in the separate [RELEASE-SCHEDULE](https://github.com/xpack-dev-tools/.github/blob/master/REALEASE-SCHEDULE.md) page.
