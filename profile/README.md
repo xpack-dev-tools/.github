@@ -197,7 +197,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [bison](https://github.com/xpack-dev-tools/bison-xpack/) - xPack GNU bison
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fbison%2F)](https://xpack.github.io/dev-tools/bison/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fbison-xpack%2F)](https://xpack-dev-tools.github.io/bison-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/bison-xpack)](https://github.com/xpack-dev-tools/bison-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/bison.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/bison/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/bison-xpack)](https://github.com/xpack-dev-tools/bison-xpack/discussions/)
@@ -207,7 +207,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [flex](https://github.com/xpack-dev-tools/flex-xpack/) - xPack GNU flex
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fflex%2F)](https://xpack.github.io/dev-tools/flex/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fflex-xpack%2F)](https://xpack-dev-tools.github.io/flex-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/flex.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/flex/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/discussions/)
@@ -217,7 +217,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fm4%2F)](https://xpack.github.io/dev-tools/m4/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fm4-xpack%2F)](https://xpack-dev-tools.github.io/m4-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/m4.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/m4/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/m4-xpack)](https://github.com/xpack-dev-tools/m4-xpack/discussions/)
@@ -227,7 +227,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpatchelf%2F)](https://xpack.github.io/dev-tools/dev-tools/patchelf/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fpatchelf-xpack%2F)](https://xpack-dev-tools.github.io/dev-tools/patchelf-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/patchelf?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/patchelf/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/discussions/)
@@ -237,7 +237,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [pkg-config](https://github.com/xpack-dev-tools/pkg-config-xpack/) - xPack pkg-config
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fpkg-config%2F)](https://xpack.github.io/dev-tools/pkg-config/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fpkg-config-xpack%2F)](https://xpack-dev-tools.github.io/pkg-config-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/pkg-config-xpack)](https://github.com/xpack-dev-tools/pkg-config-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/pkg-config?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/pkg-config/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/pkg-config-xpack)](https://github.com/xpack-dev-tools/pkg-config-xpack/discussions/)
@@ -257,7 +257,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [sed](https://github.com/xpack-dev-tools/sed-xpack/) - xPack GNU sed
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack.github.io%2Fsed%2F)](https://xpack.github.io/dev-tools/sed/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fsed-xpack%2F)](https://xpack-dev-tools.github.io/sed-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/sed.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/sed/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/sed-xpack)](https://github.com/xpack-dev-tools/sed-xpack/discussions/)
