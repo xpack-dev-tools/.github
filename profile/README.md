@@ -227,7 +227,7 @@ Other projects used internally during development, in alphabetical order, are:
 
 #### [patchelf](https://github.com/xpack-dev-tools/patchelf-xpack/) - xPack NixOS PatchELF
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fpatchelf-xpack%2F)](https://xpack-dev-tools.github.io/dev-tools/patchelf-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fpatchelf-xpack%2F)](https://xpack-dev-tools.github.io/patchelf-xpack/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/releases/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/patchelf?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/patchelf/)
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/patchelf-xpack)](https://github.com/xpack-dev-tools/patchelf-xpack/discussions/)
