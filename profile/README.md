@@ -57,7 +57,7 @@ The projects, in alphabetical order, are:
 
 #### [cmake](https://github.com/xpack-dev-tools/cmake-xpack/) - xPack CMake 
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fcmake-xpack%2F)](https://xpack-dev-tool.github.io/cmake-xpack/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fcmake-xpack%2F)](https://xpack-dev-tools.github.io/cmake-xpack/)
 ![GitHub Repo stars](https://img.shields.io/github/stars/xpack-dev-tools/cmake-xpack)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/cmake-xpack/total.svg)](https://github.com/xpack-dev-tools/cmake-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Win%20%7C%20Mac%20%7C%20Linux%20-blue)
