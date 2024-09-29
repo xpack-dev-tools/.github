@@ -205,16 +205,6 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/bison-xpack/total.svg)](https://github.com/xpack-dev-tools/bison-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
-#### [flex](https://github.com/xpack-dev-tools/flex-xpack/) - xPack GNU flex
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fflex-xpack%2F)](https://xpack-dev-tools.github.io/flex-xpack/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/flex.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/flex/)
-[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/discussions/)
-[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/issues/)
-[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/flex-xpack/total.svg)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
-![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
-
 #### [m4](https://github.com/xpack-dev-tools/m4-xpack/) - xPack GNU M4
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fm4-xpack%2F)](https://xpack-dev-tools.github.io/m4-xpack/)
@@ -281,6 +271,28 @@ Other projects used internally during development, in alphabetical order, are:
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-helper-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-helper.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-helper/)
+
+## Work in progress
+
+#### [flex](https://github.com/xpack-dev-tools/flex-xpack/) - xPack GNU flex
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Fflex-xpack%2F)](https://xpack-dev-tools.github.io/flex-xpack/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/flex.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/flex/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/flex-xpack)](https://github.com/xpack-dev-tools/flex-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/flex-xpack/total.svg)](https://github.com/xpack-dev-tools/flex-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
+
+#### [texinfo](https://github.com/xpack-dev-tools/texinfo-xpack/) - xPack texinfo
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fxpack-dev-tools.github.io%2Ftexinfo-xpack%2F)](https://xpack-dev-tools.github.io/texinfo-xpack/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/xpack-dev-tools/texinfo-xpack)](https://github.com/xpack-dev-tools/texinfo-xpack/releases/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/texinfo.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/texinfo/)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/texinfo-xpack)](https://github.com/xpack-dev-tools/texinfo-xpack/discussions/)
+[![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/texinfo-xpack)](https://github.com/xpack-dev-tools/texinfo-xpack/issues/)
+[![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/texinfo-xpack/total.svg)](https://github.com/xpack-dev-tools/texinfo-xpack/releases/)
+![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
 
 ## Release schedule
 
