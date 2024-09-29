@@ -265,13 +265,6 @@ Other projects used internally during development, in alphabetical order, are:
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/wine-xpack/total.svg)](https://github.com/xpack-dev-tools/wine-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Linux%20x64%20-blue)
 
-## Build helper
-
-- [xbb-helper-xpack](https://github.com/xpack-dev-tools/xbb-helper-xpack)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-helper-xpack/tags/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-helper.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-helper/)
-
 ## Work in progress
 
 #### [flex](https://github.com/xpack-dev-tools/flex-xpack/) - xPack GNU flex
@@ -293,6 +286,13 @@ Other projects used internally during development, in alphabetical order, are:
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/texinfo-xpack)](https://github.com/xpack-dev-tools/texinfo-xpack/issues/)
 [![Github All Releases](https://img.shields.io/github/downloads/xpack-dev-tools/texinfo-xpack/total.svg)](https://github.com/xpack-dev-tools/texinfo-xpack/releases/)
 ![Platforms](https://img.shields.io/badge/platform-Mac%20%7C%20Linux%20-blue)
+
+## Build helper
+
+- [xbb-helper-xpack](https://github.com/xpack-dev-tools/xbb-helper-xpack)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-bootstrap-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-dev-tools/xbb-helper-xpack)](https://github.com/xpack-dev-tools/xbb-helper-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-dev-tools/xbb-helper.svg?color=blue)](https://www.npmjs.com/package/@xpack-dev-tools/xbb-helper/)
 
 ## Release schedule
 
