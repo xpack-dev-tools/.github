@@ -10,7 +10,7 @@ For support, use the **discussions** pages associated with each project.
 For general discussions on topics not included elsewhere, use the [discussions](https://github.com/xpack-dev-tools/.github/discussions/) pages of the `.github` project.
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/.github)](https://github.com/xpack-dev-tools/.github/discussions/)
 
-## Released packages
+## Main packages
 
 The projects, in alphabetical order, are:
 
@@ -191,7 +191,7 @@ The projects, in alphabetical order, are:
 [![GitHub Discussions](https://img.shields.io/github/discussions/xpack-dev-tools/windows-build-tools-xpack)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/discussions/)
 [![GitHub issues](https://img.shields.io/github/issues/xpack-dev-tools/windows-build-tools-xpack)](https://github.com/xpack-dev-tools/windows-build-tools-xpack/issues/)
 
-## Other packages
+## SUplementary packages
 
 Other projects used internally during development, in alphabetical order, are:
 
