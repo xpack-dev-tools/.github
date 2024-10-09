@@ -340,6 +340,20 @@ More details in the separate [RELEASE-SCHEDULE](https://github.com/xpack-dev-too
 
 Test and experimental binaries are available from the [pre-releases](https://github.com/xpack-dev-tools/pre-releases/releases/) project.
 
+### Analytics & SEO
+
+Google
+
+- [Analytics](https://analytics.google.com/analytics/web/?authuser=0#/p450015882/realtime/overview?params=_u..nav%3Dmaui&collectionId=business-objectives)
+- [SEO](https://search.google.com/u/0/search-console?resource_id=https%3A%2F%2Fxpack-dev-tools.github.io%2F)
+- [key](https://xpack-dev-tools.github.io/googleb55a53ffec1a10e4.html)
+
+Bing
+
+- [Webmaster](https://www.bing.com/webmasters/home?siteUrl=https://xpack-dev-tools.github.io)
+- [key](https://xpack-dev-tools.github.io/BingSiteAuth.xml)
+
+
 ### Credit
 
 Credit to [Shields IO](https://shields.io) for the badges.
