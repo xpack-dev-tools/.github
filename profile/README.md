@@ -301,8 +301,11 @@ Unscheduled
 - cmake: [upstream](https://github.com/Kitware/CMake/tags/) (3.X.4 -> 3.(X-1).Y)
 - meson: [upstream](https://github.com/mesonbuild/meson/tags/) (1.X.0 -> 1.(X-1).Y)
 - ninja: [upstream](https://github.com/ninja-build/ninja/tags/)
-- arm-none-eabi-gcc, aarch64-none-elf-gcc: [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/)
 - windows-build-tools: [make upstream](https://ftp.gnu.org/gnu/make/)
+
+January
+
+- arm-none-eabi-gcc, aarch64-none-elf-gcc: [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/, usually mid December and possibly June-July)
 
 February
 
@@ -317,6 +320,10 @@ May - July
 
 - gcc, mingw-w64-gcc, riscv-none-elf-gcc: X.1.0 prepared, not released
 - gcc, mingw-w64-gcc, riscv-none-elf-gcc: (X-1).3, (X-2).4, (X-3).5
+
+July
+
+- arm-none-eabi-gcc, aarch64-none-elf-gcc: [ARM releases](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads/, possibly June-July)
 
 August-September
 
